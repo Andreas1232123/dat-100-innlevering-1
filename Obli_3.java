@@ -10,5 +10,6 @@ public class Obli_3 {
             N *= i;
         }
         System.out.println(n + "! = "+ N);
+        helltall.close();
     }
 }
